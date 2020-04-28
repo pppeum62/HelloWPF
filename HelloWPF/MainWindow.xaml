@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="안녕 내 이름은 기쁨이야" HorizontalAlignment="Left" Margin="200,90,0,0" VerticalAlignment="Top" Width="400" Height="200" Background="#FFFFCD32" Foreground="Black"/>
+        <Button Content="안녕 내 이름은 기쁨이야" HorizontalAlignment="Left" Margin="200,90,0,0" VerticalAlignment="Top" Width="400" Height="200" Background="#FFFFCD32" Foreground="Black" Click="Button_Click"/>
 
     </Grid>
 </Window>
